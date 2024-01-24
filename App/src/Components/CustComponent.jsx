@@ -1,7 +1,7 @@
 const CustComp1 = () =>{
     return(
         <>
-         <h4>Created a Custom Component</h4>
+         <h4 className="custCopm">Created a Custom Component</h4>
         </>
     )
 };
