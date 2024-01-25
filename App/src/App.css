@@ -5,3 +5,15 @@
   text-align: center;
 }
 
+.student{
+  border: 1px solid #ccc;
+  text-align: left;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+.student th, .student td{
+ width: 100px;
+ padding: 5px 10px;
+ border: 1px solid #ccc;
+}
